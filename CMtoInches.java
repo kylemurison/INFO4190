@@ -13,9 +13,7 @@ public class CMtoInches {
 
     public static void main(String[] args) {
        
-        /**
-         * adding a comment here, hello world
-         */
+        
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the amount of centimeters");
         Double cm = input.nextDouble();
